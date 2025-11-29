@@ -26,7 +26,3 @@
 - **Clear all records** button with confirmation dialog
 - Save entries by pressing the **Enter key**
 - Input validation with **helpful error messages**
-
----
-
-> 💡 **To use this application**, simply open the HTML file in any modern browser. Your measurements will be saved locally in your browser's storage and will persist between sessions.
